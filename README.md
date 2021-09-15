@@ -1,2 +1,0 @@
-# XBNs
-Explainable Bayesian Networks
